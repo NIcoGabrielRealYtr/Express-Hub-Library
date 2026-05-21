@@ -1,7 +1,6 @@
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/NIcoGabrielRealYtr/Express-Hub-Library/refs/heads/main/Source"))()
 
--- Create main window
 local Window = Library:MakeWindow({
     Name = "Title",
     HomeTab = false,
